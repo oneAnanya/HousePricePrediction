@@ -1,4 +1,6 @@
-# Prediction of House pricing in Boston using Linear Regression Algorithm
+# Prediction of House pricing in Boston City
+
+using (1) Linear Regression Algorithm
 
 Create a virtual environment for the project
 ```
